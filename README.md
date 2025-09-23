@@ -4,7 +4,7 @@ This is the Lab 02 repo for Group 4
 Group 4 members: Kim Nguyen Maria Riquelme Janice Underwood Omar Alhakeem
 
 ## Your Analysis and Reflection
-Janice Underwood
+## Janice Underwood
 **Instructions**: Complete the analysis below by editing this markdown cell.
 
 ### My Observations About the Iris Dataset
