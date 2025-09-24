@@ -28,3 +28,24 @@ Group 4 members: Kim Nguyen Maria Riquelme Janice Underwood Omar Alhakeem
 
 Using Bar chart allow us to easy visualize different form of comparing data and extract information. Numpy take care of calculation and allow numerical representation though Visualization.
 ...............................................................................................................
+
+
+OMAR
+Your Analysis and Reflection
+Instructions: Complete the analysis below by editing this markdown cell.
+
+My Observations About the Iris Dataset
+Dataset Overview:
+
+Number of samples: 150
+Number of features: 4
+Number of classes: 3
+Key Findings from the Visualization:
+
+Setosa grows widest out of the 3 classes. It is also the shortest out of the group.
+Versicolor has the closeset data (closest average) compared to the other classes.
+Virginica is the most scattered compared to the other classes. There are some anolmalies in it's data set that warrant further review.
+Questions for Further Investigation:
+
+Why is Virginica the most scattered class?
+What does the other data tell us about why sometimes it grows long and other times it grows wide?
