@@ -30,7 +30,8 @@ Using Bar chart allow us to easy visualize different form of comparing data and 
 ...............................................................................................................
 
 
-OMAR
+##OMAR
+
 Your Analysis and Reflection
 Instructions: Complete the analysis below by editing this markdown cell.
 
