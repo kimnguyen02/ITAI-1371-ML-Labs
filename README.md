@@ -52,7 +52,7 @@ Why is Virginica the most scattered class?
 What does the other data tell us about why sometimes it grows long and other times it grows wide?
 
 ## Kim
-## My Observations About the Iris Dataset
+### My Observations About the Iris Dataset
 **Dataset Overview:**
 Number of samples: 150
 Number of features: 4
