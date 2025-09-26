@@ -50,3 +50,19 @@ Questions for Further Investigation:
 
 Why is Virginica the most scattered class?
 What does the other data tell us about why sometimes it grows long and other times it grows wide?
+
+## Kim
+## My Observations About the Iris Dataset
+Dataset Overview:
+Number of samples: 150
+Number of features: 4
+Number of classes: 3
+
+Key Findings from the Visualization:
+[Write your observation about the scatter plot] Overall, sepal width of setosa is higher than the other 2 data.
+[Write another observation] While sepal length of virginica is the highest one.
+[Write a third observation] The data of red points is significantly different from the others.
+
+Questions for Further Investigation:
+[Write a question you'd like to explore] Why is the data of setosa seperate from the others?
+[Write another question] Why is the data for versicolor and virginica not much different?
