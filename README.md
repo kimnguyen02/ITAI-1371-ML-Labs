@@ -66,3 +66,25 @@ Number of classes: 3
 **Questions for Further Investigation:**
 [Write a question you'd like to explore] Why is the data of setosa seperate from the others?
 [Write another question] Why is the data for versicolor and virginica not much different?
+
+Maria Jose Viveros Riquelme 
+________________________________________________________________________________________________________________________-
+
+My Observations About the Iris Dataset
+
+Dataset Overview:
+Number of samples: 150
+Number of features: 4
+Number of classes: 3 (setosa, versicolor, virginica)
+Key Findings from the Visualization:
+The species setosa is very distinct and easily separated from the other two species based on petal measurements.
+Versicolor and virginica overlap more in their features, making them visually harder to separate.
+Petal length and petal width are the most valuable features for distinguishing between species.
+
+Questions for Further Investigation:
+
+Could a simple classifier (like logistic regression) achieve high accuracy with these features?
+How well do the different machine learning algorithms handle the overlap between versicolor and virginica?
+
+Reflection:
+I learned how to utilize Python libraries, such as Pandas and Matplotlib, to explore datasets and visualize patterns. These tools facilitate the identification of useful features and potential challenges for machine learning. Working with Jupyter Notebook also showed me how to document my analysis clearly and professionally.
