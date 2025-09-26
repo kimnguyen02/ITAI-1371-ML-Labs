@@ -67,7 +67,7 @@ Number of classes: 3
 [Write a question you'd like to explore] Why is the data of setosa seperate from the others?
 [Write another question] Why is the data for versicolor and virginica not much different?
 
-Maria Jose Viveros Riquelme 
+**Maria Jose Viveros Riquelme** 
 ________________________________________________________________________________________________________________________-
 
 My Observations About the Iris Dataset
